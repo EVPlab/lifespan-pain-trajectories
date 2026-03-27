@@ -24,16 +24,16 @@ Scripts are numbered in the recommended execution order and map to manuscript fi
 
 | Script | Description | Figures |
 |---|---|---|
-| `01_global_pain_trajectories.R` | Lifespan prevalence curves for 11 anatomical sites, any bodily pain, and joint pain, stratified by sex | Figures 2, 3A |
-| `02_pain_intensity.R` | Mean pain intensity (Gamma GLMM) and high-intensity pain (NRS ≥ 7) trajectories | Figure 3B, Appendix Fig 18 |
-| `03_widespread_pain.R` | Generalised widespread pain (≥ 4/5 body regions, ACR 2016 criteria) | Figure 3C |
+| `01_global_pain_trajectories.R` | Lifespan prevalence curves for 11 anatomical sites stratified by sex | Figures 2, 3A |
+| `02_pain_intensity.R` | Mean pain intensity and high-intensity pain (NRS ≥ 7) trajectories | Figure 3B, Appendix Fig 18 |
+| `03_widespread_pain.R` | Generalised widespread pain (≥ 4/5 body regions) | Figure 3C |
 | `04_regional_trajectories.R` | Region-specific prevalence curves across eight world regions | Figure 4 |
 | `05_hdi_trajectories.R` | Prevalence trajectories by Human Development Index | Figure 5 |
 | `06a_smoking_trajectories.R` | Age-varying prevalence by smoking status | Figure 6A, Appendix Fig 14 |
 | `06b_bmi_trajectories.R` | Age-varying prevalence by BMI category | Figure 6A, Appendix Fig 15 |
 | `06c_income_trajectories.R` | Age-varying prevalence by household income quintile | Figure 6A, Appendix Fig 16 |
 | `06d_age_adjusted_rr.R` | Overall age-adjusted risk ratios for BMI, smoking, and income | Figure 6A body maps, Appendix Table 5 |
-| `07_population_attributable_fractions.py` | Country- and region-level PAFs combining study-derived RRs with GBD exposure prevalence | Figure 6B–C, Appendix Table 6, Appendix Fig 17 |
+| `07_population_attributable_fractions.py` | Country- and region-level PAFs | Figure 6B–C, Appendix Table 6, Appendix Fig 17 |
 
 ---
 
