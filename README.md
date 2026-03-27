@@ -4,7 +4,7 @@
 
 This repository contains the analysis code for:
 
-> [Authors]. Global Prevalence Trajectories of Pain across the Lifespan: A Pooled Analysis of 6.1 Million Individuals from 118 Countries and Territories. *The Lancet*, 2026.
+> Global Prevalence Trajectories of Pain across the Lifespan: A Pooled Analysis of 6.1 Million Individuals from 118 Countries and Territories. *In submission*.
 
 ---
 
