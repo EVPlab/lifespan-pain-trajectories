@@ -38,8 +38,6 @@ A full prose description of the modelling (the "pseudocode" for the pipeline) is
 - **R:** version 4.4.1. Packages (versions used): `lme4` (1.1-35), `splines` (base), `marginaleffects` (0.20+), `emmeans` (1.10+), `clubSandwich` (0.5+), `data.table` (1.15+), `dplyr` (1.1+), `tidyr` (1.3+), `ggplot2` (3.5+), `foreach` + `doParallel`, `scales`.
 - **Python:** version 3.11, for `07_population_attributable_fractions.py`. Packages: `pandas`, `numpy`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`, `geopandas`.
 
-Exact session details can be reproduced with `sessionInfo()` (R) and `pip freeze` (Python).
-
 ## Installation
 
 ```r
