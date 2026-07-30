@@ -3,7 +3,7 @@
 
 This repository contains the analysis code for:
 
-**Global Prevalence Trajectories of Pain across the Lifespan: A Pooled Analysis of 6.1 Million Individuals from 118 Countries and Territories.** *In submission.*
+**Global Prevalence Trajectories of Pain across the Lifespan: A Pooled Analysis of 6.1 Million Individuals from 118 Countries and Territories.
 
 ## Global Pain Benchmarking Tool
 
