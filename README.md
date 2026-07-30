@@ -50,7 +50,6 @@ install.packages(c("lme4","marginaleffects","emmeans","clubSandwich",
 ```bash
 pip install pandas numpy scipy statsmodels matplotlib seaborn geopandas
 ```
-Typical install time on a normal desktop: **~5–15 minutes** (mostly compiling `lme4`).
 
 ## Demo
 
