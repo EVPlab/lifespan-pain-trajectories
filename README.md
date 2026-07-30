@@ -81,5 +81,3 @@ Released under the [MIT License](LICENSE).
 ## Contact
 
 Matthew Fillingim — matthew.fillingim@mail.mcgill.ca
-
-For questions about the analysis code, please open an issue in this repository.
